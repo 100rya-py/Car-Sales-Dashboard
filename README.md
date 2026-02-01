@@ -51,7 +51,7 @@ The project is designed to showcase **business analytics, time intelligence, and
 - Drill-through enabled for deep analysis  
 
 📷 **Details Page Screenshot:**  
-👉 https://github.com/100rya-py/Car-Sales-Dashboard/blob/main/Details%20Page.png
+![Details Preview](https://github.com/100rya-py/Car-Sales-Dashboard/blob/main/Details%20Page.png)
 
 ---
 

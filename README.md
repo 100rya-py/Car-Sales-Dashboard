@@ -33,7 +33,7 @@ The project is designed to showcase **business analytics, time intelligence, and
 - Company-wise sales performance table  
 
 📷 **Overview Page Screenshot:**  
-👉 _ADD OVERVIEW PAGE IMAGE LINK HERE_
+![Overview Preview](https://github.com/100rya-py/Car-Sales-Dashboard/blob/main/Overview%20Page.png)
 
 ---
 

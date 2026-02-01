@@ -92,5 +92,5 @@ This dashboard uses **Power BI Time Intelligence functions** to replicate real b
 The dataset contains car sales transactions including customer, dealer, vehicle, and pricing information.
 
 🔗 **Data Source Link:**  
-👉 _ADD DATA SOURCE LINK HERE_
+👉 ![](https://github.com/100rya-py/Car-Sales-Dashboard/blob/main/Car%20Sales.xlsx)
 
